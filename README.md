@@ -34,7 +34,7 @@
 <p>Outras funções do programa incluem a opção de atualizar ou remover um produto existente e exibir um relatório detalhado do estoque atual. As funções de atualização e remoção solicitam o código do produto que o usuário deseja atualizar ou remover e, em seguida, procuram o produto correspondente no ArrayList de produtos. Se o produto for encontrado, o programa solicita ao usuário as informações atualizadas ou confirmação da remoção do produto. Caso contrário, o programa exibe uma mensagem de erro.</p>
 
 
-<p>A função de exibição de relatórios percorre o ArrayList de produtos e exibe informações sobre cada produto, incluindo o código, nome, preço, quantidade, data de validade e funcionário responsável. O programa também exibe o valor total do estoque atual e a quantidade de produtos vencidos.</p>
+<p>A função de exibição de relatórios percorre o ArrayList de produtos e funcionários, exibindo informações sobre cada produto e funcionário, incluindo o código, nome, preço, quantidade, data de validade e funcionário responsável. O programa também exibe o valor total do estoque atual e a quantidade de produtos e funcionários cadastrados.</p>
 
 <p>A opção 0 finaliza o programa.</p>
 
